@@ -1,0 +1,11 @@
+C:\Users\stasi\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe.config
+C:\Users\stasi\source\repos\Sapper\Sapper\bin\Debug\Sapper.exe
+C:\Users\stasi\source\repos\Sapper\Sapper\bin\Debug\Sapper.pdb
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.csprojAssemblyReference.cache
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.Properties.Resources.resources
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.GenerateResource.cache
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.csproj.CoreCompileInputs.cache
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.exe
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.pdb
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.Menu.resources
+C:\Users\stasi\source\repos\Sapper\Sapper\obj\Debug\Sapper.Form1.resources
